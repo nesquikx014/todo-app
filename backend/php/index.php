@@ -9,6 +9,9 @@
   <body>
     <div id="app"></div>
     <p>helloo</p>
+    <?php
+echo "Hello World - PHP is working!";
+?>
     <script type="module" src="/src/main.js"></script>
   </body>
 </html>
