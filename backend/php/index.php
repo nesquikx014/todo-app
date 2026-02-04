@@ -8,7 +8,6 @@
   </head>
   <body>
     <div id="app"></div>
-    <p>helloo</p>
     <?php
 echo "Hello World - PHP is working!";
 ?>
